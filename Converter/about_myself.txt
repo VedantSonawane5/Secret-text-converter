@@ -1,0 +1,13 @@
+Hello,
+This code was created by Vedant Sonawane, a Grade 8 student at Orchid The International School in Manjri.
+
+I  aspire to become an AI engineer and developed this code to enhance the security of our text.
+
+The game was created on May 31, 2026, at 12:28 pm. It was a challenging task, but I managed to complete it.
+
+If you have expertise in converting Python files into APK files, please contact me at vs05082013@gmail.com. I’ve tried
+to do this myself, but I’ve encountered several errors. If you have any suggestions for modifying or improving the code,
+I’d greatly appreciate your insights.
+
+I’m also following this GitHub user ID: VedantSonawane5.
+                             Insta ID : _Vedu_0508_
